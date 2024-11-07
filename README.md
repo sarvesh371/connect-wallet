@@ -2,7 +2,7 @@
 
 👉 **STAR ⭐ this project for later use and to keep posted on the changes.**
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) for connecting web3 wallet
 
 ## Table of Contents
 - Connect-wallet
